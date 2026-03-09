@@ -150,9 +150,13 @@ Some potential insights from this analysis include:
 # 📂 Project Structure
 Hospital-ER-Analysis
 │
+
 ├── Hospital ER_Data.csv
+
 ├── Hospital ER Analysis.pbix
+
 ├── Data Terminology.docx
+
 └── README.md
 
 ---
@@ -207,11 +211,11 @@ Possible enhancements:
 
 # 👨‍💻 Author
 
-**Shwetha**
+**Shwetha Patil**
 
-Aspiring **Data Analyst | Data Science Trainee**
+**Data Analyst** | EXCEL | SQL | PYTHON | POWER BI
 
-Passionate about turning data into actionable insights using **Power BI, SQL, and Python**.
+Passionate about turning data into actionable insights.
 
 ---
 
